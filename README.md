@@ -121,4 +121,4 @@ For any inquiries, feel free to contact me :)
 3. **Detailed Instructions**: The setup steps are easy to follow, ensuring a smooth experience for developers setting up the project.
 4. **Contact Information**: You can add your contact details for more professional outreach.
   
-Let me know if you'd like further modifications or additional sections!
+Let me know if you'd like further modifications or additional sections
