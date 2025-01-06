@@ -55,37 +55,38 @@ Begin by cloning the repository to your local machine:
 ```bash
 git clone https://github.com/your-username/edu-podcasts-platform.git
 cd edu-podcasts-platform
+```
 
 2. Install Backend Dependencies
 
 Navigate to the backend directory and install the required dependencies:
-
+```
 cd backend
 npm install
-
+```
 3. Install Frontend Dependencies
 
 Navigate to the frontend directory and install the required dependencies:
-
+```
 cd ../frontend
 npm install
-
+```
 4. Run the Development Servers
-
+```
     Frontend: Start the frontend development server:
 
 npm run dev
-
+```
 Access the frontend at http://localhost:3000.
-
+```
     Backend: Start the backend server:
-
+```
 cd ../backend
 node server.js
-
+```
 The backend API will be available at http://localhost:5000.
 Contributing
-
+```
 We welcome contributions from the community to improve and expand the platform. If you have ideas, bug reports, or enhancements, feel free to fork the repository and submit a pull request.
 Steps to Contribute:
 
