@@ -1,0 +1,7 @@
+{
+  "name": "edu-podcasts-platform",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd frontend && npm run start"
+  }
+}
